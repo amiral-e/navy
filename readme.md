@@ -1,7 +1,7 @@
 # navy
 
 ## Description
-Unix System Programming | navy Epitech Teck1
+Unix System Programming Epitech | navy
 
 You all know the very famous Battleship game. Well, I hope
 so.  
